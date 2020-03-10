@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349145151416",
+    "firebase_url": "https://eyelife-cfa07.firebaseio.com",
+    "project_id": "eyelife-cfa07",
+    "storage_bucket": "eyelife-cfa07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349145151416:android:fc9eab4bfaca3469c6414d",
+        "android_client_info": {
+          "package_name": "com.example.eyelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349145151416-l2iqcp31o2i57mbirol4ub6l9lr573la.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eyelife",
+            "certificate_hash": "e86dfde1bbbee2f3ac7ebc3eebc35c3cc9398a2f"
+          }
+        },
+        {
+          "client_id": "349145151416-5g4aokig9k6t57viqgujdomg44v8oe9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPa0qDiC07b7YsXxN5Ygd47nOSGGnUYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349145151416-5g4aokig9k6t57viqgujdomg44v8oe9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
